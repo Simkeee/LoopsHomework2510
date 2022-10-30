@@ -32,6 +32,8 @@ console.log("2.Zadatak "+ oddNumb(-45));
 //number is a three digit long number.
 function isthreeLN(number4)
 {
+    //KOMENTAR: Nisam siguran sta si hteo da napises sa ovim IF uslovom? Rekao bih da ni ti nisi siguran,
+    // Ali svakako se ovaj uslov apsolutno nikada nece ispuniti. Jer broj ne moze istovremeno biti i veci i manji i jednak jedinici :) 
     if(number4/100>=1 && number4/1000<1)
     {
         threeDG=true;
@@ -172,3 +174,5 @@ function concatenatesStr(str2,w)
 return j;
 }
 console.log("11.Zadatak: " + concatenatesStr("Avala",4));
+
+
