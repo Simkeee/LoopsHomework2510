@@ -54,6 +54,8 @@ for(m=0;m<x.length; m++)
 }
     console.log("5. ZADATAK:Elements of the following array as a single string: " + result1);
 
+
+//KOMENTAR: Ovaj sestri zadatak si malkice zakomplikovao ali je okej, snalazis se :) 
 //6. Zadatak Write a program that prints the elements of the following array.
 var a = [[1, 2, 1, 24],[8, 11, 9, 4],[7, 0, 7, 27]];
 console.log("6. ZADATAK:var a=[ ")
